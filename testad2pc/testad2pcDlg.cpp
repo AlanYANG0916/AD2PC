@@ -187,7 +187,7 @@ void Ctestad2pcDlg::OnRcv(CClientSock* pConn)
 //有客户端断开
 void Ctestad2pcDlg::OnClientClose(int nErrCode, CClientSock* pConn)
 {
-	//
+	//1231
 }
 
 //有新连接
